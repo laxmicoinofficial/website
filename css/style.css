@@ -16,6 +16,70 @@ body {
     position:relative !important;
 }
 
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+/* Style the back-to-top floating button */
+.sf-back-to-top {
+    background-color: #091f3a; /* button color */
+    color: white; /* text/arrow color */ 
+    display: none;
+    z-index: 999;
+    /* float in bottom right corner */
+    /* 20 pixels from edge */
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    /* size of button is 50 pixels*/
+    width: 50px;
+    height: 50px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; 
+    /* round button */
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+a.sf-back-to-top {
+    font-weight: 900;
+    letter-spacing: 2px;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.6;
+    padding-left: 2px;
+    padding-top: 4px;    
+}
+
+a.sf-back-to-top .arrow:before {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 1;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
+    display: block;
+    vertical-align: middle;
+    transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    cursor: pointer;
+    margin-left: -4px;
+}
 /*----------------------
 	Typography
 ------------------------------*/
@@ -366,7 +430,8 @@ img {
 	margin:0 auto;
 }
 .team_wrap p {
-	font-size:15px;	
+	font-size: 12px;
+    color: #091f3a;
 }
 .linkedin_link {
 	margin:-17px auto 13px;
@@ -533,6 +598,9 @@ img {
 }
 .follow_us li.twitter_icon a {
 	background:#55acee;	
+}
+.follow_us li.insta_icon a {
+	background:#d869cf;	
 }
 .follow_us li.youtube_icon a {
 	background:#da3c40;	

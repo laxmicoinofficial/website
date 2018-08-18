@@ -4,8 +4,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="keywords" content="laxmicoin, lakshmicoin">
-<meta name="description" content="Empower consumers around the world">
+<meta name="keywords" content="laxmicoin,lakshmicoin,indian bitcoin,cryptocurrency,rover network,crypto,blockchain">
+<meta name="description" content="Laxmicoin and the Rover Network — A decentralized platform for consumers around the world. It is committed to build the most advanced blockchain facilitating number of use cases.">
 <meta name="google-site-verification" content="BHlwV6mX-ZA0b7k1ePIlV4YfTtuZZ16l_xhuc_h8osc" />
 <title>Laxmicoin&reg; Platform : Empower consumers around the world.</title>
 <!--Bootstrap -->
@@ -33,16 +33,17 @@
   gtag('js', new Date());
   gtag('config', 'UA-109038494-1');
 </script>
-
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 </head>
 <body id="home">
+<a href="#" class="sf-back-to-top fa fa-angle-up"><span class="arrow"></span></a>
 <!-- Header -->
 <header id="header" class="nav-stacked affix-top" data-spy="affix" data-offset-top="10">
   <!-- Navigation -->
   <nav id="navigation_bar" class="navbar navbar-default">
     <div class="container">
       <div class="navbar-header">
-      	<div class="logo"> <a href="https://laxmicoin.com/"><img src="images/logo.png" alt="image"/></a> </div>
+        <div class="logo"> <a href="https://laxmicoin.com/"><img src="images/logo.png" alt="image"/></a> </div>
         <button id="menu_slide" data-target="#navigation" aria-expanded="false" data-toggle="collapse" class="navbar-toggle collapsed" type="button"> 
             <span class="sr-only">Toggle navigation</span> 
             <span class="icon-bar"></span> 
@@ -52,13 +53,14 @@
       </div>
       <div class="collapse navbar-collapse" id="navigation">
         <ul class="nav navbar-nav">
-          <li><a href="#intro" class="js-target-scroll">Home</a></li>
           <li><a href="#about_us" class="js-target-scroll">About Us</a></li>
           <li><a href="#road_map" class="js-target-scroll">Road Map</a></li>
-          <li><a href="#socialserv" class="js-target-scroll">Rover</a></li>
+          <li><a href="#team" class="js-target-scroll">Team</a></li>
+          <li><a href="#wallet" class="js-target-scroll">Rover</a></li>
+          <li><a href="#newsletter2" class="js-target-scroll">Blogs</a></li>
           <li><a href="https://laxmicoin.com/faq.html" target="_blank">FAQ</a></li>
-          <li><a href="#newsletter" style="border:1px solid;margin:11px;padding:11px;" class="js-target-scroll">SignUp</a></li>
-          <li><a href="https://myaccount.laxmicoin.com/" style="border:1px solid;margin:11px;padding:11px;" class="js-target-scroll">SignIn</a></li>
+          <li><a href="https://rover.network/lab/" style="border:1px solid;margin:11px;padding:11px;" class="js-target-scroll" target="_blank">Rover Lab</a></li>
+          <li><a href="https://myaccount.laxmicoin.com/" style="border:1px solid;margin:11px;padding:11px;" class="js-target-scroll" target="_blank">Myaccount</a></li>
         </ul>
       </div>
     </div>
@@ -68,45 +70,58 @@
 <!-- /Header --> 
 
 <section id="intro" class="section-padding text-center">
-	<div class="container">
-    	<div class="intro_text">
-	    	<h1>Decentralized platform</br> for consumers around the world</h1>
-            <a href="https://laxmicoin.com/wp-laxmicoin.pdf" class="btn" target="_blank">Download WhitePaper</a>
-
-            
+  <div class="container">
+      <div class="intro_text">
+        <h1>A blockchain for Masses!</h1>
+            <a href="https://laxmicoin.com/wp-laxmicoin.pdf" class="btn" target="_blank">Download WhitePaper</a>           
         </div>
     </div>
 </section>
 
 <section id="about_us" class="section-padding">
-	<div class="container">
-        <div class="row">
-            <div class="col-md-7 col-md-push-5">
+  <div class="container">
+      <div class="row">
+            <div class="col-md-12 text-center">
                 <h2>About Us</h2>
-                <p>Laxmicoin® is a blockchain platform powered by billions of devices. Started in 2012, we are on a mission to make  the most powerful infrastructure for decentralized applications.</p>
-
+                <p>Laxmicoin and the “Rover Network” — A decentralized platform for consumers around the world. It is committed to build the most advanced blockchain facilitating number of use cases in different fields such as banking, land registry, voting platform and healthcare to name a few. It also plans to build its own network layer to support services such as VPN and DNS. The ‘Laxmicoin’ cryptocurrency is just a small part of it which will function within the larger Rover Network.</p>
+                <h6>Rover Solutions</h6>
+                <p></p>
             </div>
-            <div class="col-md-5 col-md-pull-7 text-center">
-            	<img src="images/banner31514026913uOz80.png" alt="image">
+      </div>
+        <div class="row">
+            <div class="col-md-6 col-md-push-6 text-center">
+              <div class="videoWrapper">
+                 <iframe width="560" height="315" src="https://www.youtube.com/embed/pd_C9mKDOMg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+              </div>
             </div>
-    	</div>
-    </div>
+            <div class="col-md-6 col-md-pull-6 text-center">
+              <div class="videoWrapper">
+                 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eqyor5ibn5A?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+              </div>
+            </div>
+      </div>
+      <div class="row" >
+        <div class="col-sm-12" style="margin-top:30px;text-align: center;">
+          <a href="https://www.youtube.com/c/Laxmicoin" class="btn" target="_blank">More Videos</a>
+        </div>
+      </div>
+  </div>
 </section>
 
 <section id="road_map" class="color_bg">
-	<div class="shape_img"><img src="images/top_shape.png" alt="image"></div>
-	<div class="container">
-    	<div class="section-padding">
-    		<div class="text-center white_text">
-            	<h2>Road Map</h2>
+  <div class="shape_img"><img src="images/top_shape.png" alt="image"></div>
+  <div class="container">
+      <div class="section-padding">
+        <div class="text-center white_text">
+              <h2>Road Map</h2>
                 <p>Witness our Journey and future plans to revolutionize the world</p>
             </div>
         </div>
         
         <div >
-        	<ul id='timeline'>
+          <ul id='timeline'>
               <li class='entry'>
-                <input checked='checked' class='radio' id='trigger1' name='trigger' type='radio'>
+                <input class='radio' id='trigger1' name='trigger' type='radio'>
                     <label for='trigger1'>
                       <span>
                         We started our Journey.
@@ -128,7 +143,7 @@
                 <div class='content'></div>
               </li>
               <li class='entry'>
-                <input class='radio' id='trigger3' name='trigger' type='radio'>
+                <input checked='checked' class='radio' id='trigger3' name='trigger' type='radio'>
                     <label for='trigger3'>
                       <span>
                         Laxmicoin Launch
@@ -142,7 +157,7 @@
                 <input class='radio' id='trigger4' name='trigger' type='radio'>
                     <label for='trigger4'>
                       <span>
-                       Mobile mining & P2P transactions
+                       Mainnet & P2P transactions
                       </span>
                     </label>
                     <span class='date'>Q3 2018</span>
@@ -201,147 +216,332 @@
     <div class="shape_img"><img src="images/bottom_shape.png" alt="image"></div>
 </section>
 
-<section id="socialserv" class="section-padding">
-    <div class="container">
-    	<div class="section-padding">
-    		<div class="section_heading">
-            	<h2>Rover Network</h2>
+<section id="team" class="section-padding">
+  <div class="container">
+      <div class="text-center">
+          <div class="section_heading">
+            <h2>Laxmicoin® Team</h2>
+              <p>Meet the team delivering excellence for you</p>
+            </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-2 col-sm-4">
+              <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="images/mitthan.jpg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/mitthan/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Mitthan Meena</h6>
+                    <p>Investor</p>
+               </div>    
+            </div>
+          <div class="col-lg-2 col-sm-4">
+              <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="images/mohit.jpg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/mohit-bhargava-95a1a69/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Mohit Bhargava</h6>
+                    <p>Director of Engineering</p>
+               </div>    
+            </div>
+            <div class="col-lg-2 col-sm-4">
+              <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="images/sohan.jpg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/sohan-yadav/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Sohan Yadav</h6>
+                    <p>Blockchain Lead</p>
+               </div>     
+            </div>
+            
+            <div class="col-lg-2 col-sm-4">
+              <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="images/kaluram.jpg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/kalu-ram-saini-3a383264/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Kaluram Saini</h6>
+                    <p>Blockchain Expert</p>
+               </div>     
+            </div>
+            <div class="col-lg-2 col-sm-4">
+              <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="images/krishankant.jpg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/krishankant-singh-388b71156/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Krishankant Singh</h6>
+                    <p>Graphic &amp; Animator</p>
+               </div>      
+            </div>
+            <div class="col-lg-2 col-sm-4">
+              <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="./images/priya.jpg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/priya-singh-763258b7/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Priya Singh</h6>
+                    <p>Blockchain Developer</p>
+               </div>     
+            </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-2 col-sm-4">
+              <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="./images/sonvi.jpeg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/sonvi-nayyar-94520016a/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Sonvi Nayyar</h6>
+                    <p>HR & Social Media Manager</p>
+               </div>     
+            </div>
+            <div class="col-lg-2 col-sm-4">
+                <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="images/somitra.jpeg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/somitra-sanadhya-4556a41/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Dr. Somitra Sanadhya</h6>
+                    <p>Advisor (Professor IIT Ropar)</p>
+               </div>     
+            </div>
+            <div class="col-lg-2 col-sm-4">
+                <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="images/david.jpeg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/david-boucher-46312430/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>David Boucher</h6>
+                    <p>VP Sales &amp; Strategic Alliances</p>
+               </div>     
+            </div>
+            
+	<div class="col-lg-2 col-sm-4">
+    <div class="team_wrap">
+          <div class="team_img">
+              <img src="images/ashish.jpg" alt="image">
+          </div>
+          <div class="linkedin_link">
+              <a href="https://www.linkedin.com/in/ashishmeena8/" target="_blank"><i class="fa fa-linkedin"></i></a>
+          </div>
+         	 <h6>Ashish Meena</h6>
+        	  <p>Blockchain Guru</p>
+	     </div>
+	</div>
+	<div class="col-lg-2 col-sm-4">
+                <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="images/batwara.jpg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/ashishbatwara/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Ashish Batwara</h6>
+                    <p>Advisor (AWS)</p>
+               </div>     
+            </div>
+            <div class="col-lg-2 col-sm-4">
+                <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="images/abhisek.jpg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/abhishekkashyap/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Abhishek Kashyap</h6>
+                    <p>Advisor (Google)</p>
+               </div>     
+            </div>
+        </div>
+
+        <div class="row">
+              <div class="col-lg-2 col-sm-4">
+                <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="images/eliza.jpg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/elizabethkoshy/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Elizabeth Koshy</h6>
+                    <p>Media Advisor</p>
+               </div>     
+            </div>
+            <div class="col-lg-2 col-sm-4">
+                <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="images/sandeep.jpg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/sandeepkolukuluri/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Sandeep kolukuluri</h6>
+                    <p>Advisor (Cisco)</p>
+               </div>     
+            </div>
+             <div class="col-lg-2 col-sm-4">
+                <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="images/arpan.jpeg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/arpanjati/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Arpan Jati</h6>
+                    <p>Advisor (IIT Delhi, Ph.D)</p>
+               </div>     
+            </div>
+             <div class="col-lg-2 col-sm-4">
+                <div class="team_wrap">
+                    <div class="team_img">
+                        <img src="images/nipun.jpg" alt="image">
+                    </div>
+                    <div class="linkedin_link">
+                        <a href="https://www.linkedin.com/in/contactnipun/" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                    <h6>Nipun Khanna</h6>
+                    <p>Legal Advisor (High Court)</p>
+               </div>     
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<section id="wallet" class="color_bg white_text">
+  <div class="shape_img"><img src="images/top_shape.png" alt="image"></div>
+  <div class="container">
+      <div class="section-padding">
+        <div class="section_heading white_text">
+              <h2>Rover Network</h2>
                 <p>Most advanced and secure network for digital world</p>
             </div>
             
             <div class="row">
-            	<div class="col-sm-4">
-                	<div class="features">
-                    	<div class="features_icon"><img src="images/scability.png" alt="image"></div>
-    	            	<h5>SCALABILITY</h5>
-	                    <p>Designed for handling thousands of transactions per second</p>
+              <div class="col-sm-4">
+                  <div class="features">
+                      <div class="features_icon"><img src="images/scability.png" alt="image"></div>
+                    <h5>SCALABILITY</h5>
+                      <p>Designed for handling thousands of transactions per second.</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
-                	<div class="features">
-                    	<div class="features_icon"><img src="images/securitylock.png" alt="image"></div>
-    	            	<h5>BEST SECURITY</h5>
-	                    <p>Powered by billions of devices & secured with distributed POS system</p>
+                  <div class="features">
+                      <div class="features_icon"><img src="images/securitylock.png" alt="image"></div>
+                    <h5>BEST SECURITY</h5>
+                      <p>Powered by billions of devices & secured with distributed POS system.</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
-                	<div class="features">
-                    	<div class="features_icon"><img src="images/nominalfee.png" alt="image"></div>
-    	            	<h5>NOMINAL FEE</h5>
-	                    <p>Nominal fee per transactions to maintain network and prevention from DDoS</p>
+                  <div class="features">
+                      <div class="features_icon"><img src="images/nominalfee.png" alt="image"></div>
+                    <h5>NOMINAL FEE</h5>
+                      <p>Nominal fee per transactions to maintain network and prevention from DDoS.</p>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="section-padding">
-            <div class="section_heading">
-                <h2>Rover Apps</h2>
-                <p>Breaking the barriers</p>
-            </div>
-            
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="features">
-                        <div class="features_icon"><img src="images/banking-solution.png" alt="image"></div>
-                        <h5>Banking Solution</h5>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="features">
-                        <div class="features_icon"><img src="images/good-governance.png" alt="image"></div>
-                        <h5>Good Governance</h5>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="features">
-                        <div class="features_icon"><img src="images/supply-chain.png" alt="image"></div>
-                        <h5>Supply Chain</h5>
-                    </div>
-                </div>
-            </div></br>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="features">
-                        <div class="features_icon"><img src="images/voting-icon.png" alt="image"></div>
-                        <h5>Voting System</h5>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="features">
-                        <div class="features_icon"><img src="images/cyber-security.png" alt="image"></div>
-                        <h5>Cyber Security</h5>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="features">
-                        <div class="features_icon"><img src="images/ride-share.png" alt="image"></div>
-                        <h5>Ride Share</h5>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    
 
-</section>
+            <div class="row" >
+              <div class="col-sm-12" style="margin-top:30px;text-align: center;">
+                <a href="https://rover.network" class="btn" style="color:#173a61; background: #ffffff;" target="_blank">Visit Rover Network</a>
+              </div>
+            </div>
 
-<section id="open_job" class="color_bg white_text">
-	<div class="shape_img"><img src="images/top_shape.png" alt="image"></div>
-	<div class="container">
-    	<div class="section-padding">
-    		<div class="section_heading white_text">
-            	<h2>Join Laxmicoin®</h2>
-            </div>
-            
-            <div class="row">
-            	<div class="col-md-3">
-                	<div class="text-center">
-	                	<img src="images/placeholder_team.png" alt="image">
-                    </div>
-                </div>
-                <div class="col-md-3">
-                	<div class="job_email">
-                    	<h5>hr@laxmicoin.com</h5>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                	<div class="job_info">
-	                	<p>We at Laxmicoin believe that the world is full of highly skilled individuals who are run by passion and possess the requisite integrity for making any business house a more competent and professional place. If you think you can help us in our endeavours somehow, we invite you to join Laxmicoin. You can e-mail us.</p>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
     <div class="shape_img"><img src="images/bottom_shape.png" alt="image"></div>
 </section>
 
-<section id="newsletter" class="section-padding">
-	<div class="container">
-    	<div class="section_heading">
-        	<h2>Signup Now !</h2>
-            <p>Signup to get rewarded in biggest Airdrop by the laxmicoin.</p>
+<section id="newsletter2" class="section-padding">
+  <div class="container">
+      <div class="section_heading">
+        <h2>Blogs </h2>
+      </div>
+      <div class="row">
+	<div class="col-sm-4">
+            <a href="https://medium.com/@laxmicoin/laxmicoin-distribution-details-61b037fbbb10" target="_blank">
+              <div class="bxshadow">
+                <img src="images/distribution.jpg" alt="laxmicoin updates" style="width:100%">
+                <div class="container" style="min-height: 80px">
+                  <p>Laxmicoin distribution details</p>
+                </div>
+              </div>
+            </a>
         </div>
-        <div class="newsletter_wrap">
-            
-            <div class="signupbtn">
-                <a href="https://myaccount.laxmicoin.com/register" target="_blank">
-                <input type="submit" value="Sign Up Now" name="Sign Up Now" class="btn signup"></a>
-            </div>
-        </div>
-    </div>
-</section>
 
+         <div class="col-sm-4">
+            <a href="https://medium.com/@laxmicoin/rover-network-public-testnet-announcement-eee78fc60deb" target="_blank">
+              <div class="bxshadow">
+                <img src="images/blog.jpg" alt="rover" style="width:100%">
+                <div class="container" style="min-height: 80px">
+                  <p>Rover Network Public Testnet </br>Announcement</p>
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-sm-4">
+            <a href="https://medium.com/@laxmicoin/rover-on-the-way-247c8da275fd" target="_blank">
+              <div class="bxshadow">
+                <img src="images/rover.jpg" alt="rover" style="width:100%">
+                <div class="container" style="min-height: 80px">
+                  <p>Rover on the way!</p>
+                </div>
+              </div>
+            </a>
+          </div>
+
+      <div class="row" >
+        <div class="col-sm-12" style="margin-top:30px;text-align: center;">
+          <a href="https://medium.com/@laxmicoin" class="btn" target="_blank">Read More</a>
+        </div>
+      </div>
+  </div>
+</section>
+<style type="text/css">
+  .bxshadow {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+    margin-bottom: 20px;
+}
+</style>
 <section id="seen_on" class="color_bg white_text">
-	<div class="shape_img"><img src="images/top_shape.png" alt="image"></div>
+  <div class="shape_img"><img src="images/top_shape.png" alt="image"></div>
     <div class="section-padding"></div>
-	<div class="container">
-    	<div class="section_heading white_text">
+  <div class="container">
+      <div class="section_heading white_text">
             <h2>As seen On</h2>
         </div>
         <ul class="as_seen_logo">
+        	<li><a href="https://startup.siliconindiamagazine.com/vendor/laxmicoin-decentralized-platform-for-consumers-around-the-world-cid-4917.html" target="_blank"><img src="news/startupcity-logo.png" alt="image"></a></li>
+
             <li><a href="https://cryptonews.com/news/an-interview-with-the-founder-of-india-s-first-cryptocurrenc-1159.htm" target="_blank"><img src="news/cryptonews.jpg" alt="image"></a></li>
+
+            <li><a href="https://www.gizmotimes.com/blockchain/cryptocurrency/laxmicoin-interview-cryptocurrency/26424" target="_blank"><img src="news/gzmo.png" alt="image"></a></li>
+            
             <li><a href="https://yourstory.com/2017/11/what-is-laxmicoin-indian-cryptocurrency/" target="_blank"><img src="news/ys.png" alt="image"></a></li>
 
             <li><a href="http://www.firstpost.com/business/laxmicoin-indias-own-bitcoin-seeks-regulatory-clarity-for-launch-1326881.html" target="_blank"><img src="news/fp.png" alt="image"></a></li>
@@ -359,24 +559,25 @@
             <li><a href="https://economictimes.indiatimes.com/tech/internet/bitcoin-impact-laxmicoin-seeks-regulatory-clarity-for-launch/articleshow/28516812.cms" target="_blank"><img src="news/eco.jpg" alt="image"></a></li>
             <li><a href="https://bitcointalk.org/index.php?topic=287485.0" target="_blank"><img src="news/bitcointalk_logo2.png" alt="image"></a></li>
 
-
-
-        </ul>
+            
+            <li><a href="http://zeenews.india.com/business/news/finance/bitcoin-impact-laxmicoin-seeks-regulatory-clarity-for-launch_92092.html" target="_blank"><img src="news/zeenewslogo_nav.png" alt="image"></a></li>
+	
+	</ul>
     </div>
 </section>
 
 <footer id="footer">
-	<div class="container">
-    	<div class="footer_text">
-        	<p>The information contained on Laxmicoin’s website (“Site”) is for general information purposes only and should not be taken as financial, advisory or legal advice. No advisor-client relationship attaches to any information contained on the Site. If you have a specific concern, please contact a financial advisor, accountant or attorney to assist with your query. Reference to third-party resources and materials contained within the Site are provided for informational purposes only and should not be viewed as an endorsement of their contents, warranties, accuracy, and representations.</p>
+  <div class="container">
+      <div class="footer_text">
+          <p>The information contained on Laxmicoin’s website (“Site”) is for general information purposes only and should not be taken as financial, advisory or legal advice. No advisor-client relationship attaches to any information contained on the Site. If you have a specific concern, please contact a financial advisor, accountant or attorney to assist with your query. Reference to third-party resources and materials contained within the Site are provided for informational purposes only and should not be viewed as an endorsement of their contents, warranties, accuracy, and representations.</p>
 
-<p>By using this Site, you agree to indemnify and hold Laxmicoin, the organization responsible for creating this Site, harmless from any claim or demand, including reasonable attorney’s fees, initiated by you due to or arising out of relying on this Site in any form or fashion.</p>
+          <p>By using this Site, you agree to indemnify and hold Laxmicoin, the organization responsible for creating this Site, harmless from any claim or demand, including reasonable attorney’s fees, initiated by you due to or arising out of relying on this Site in any form or fashion.</p>
 
-<p>While care and due diligence were taken to research and draft information contained this Site, Laxmicoin does not guarantee the accurateness or completeness of this Site nor the provision that statutes, legislation, and regulations referred to in this Site are up-to-date. For updates or changes to cryptocurrency regulations, visit the court registry in your jurisdiction or speak to a qualified professional in the appropriate field.
-</p>
+          <p>While care and due diligence were taken to research and draft information contained this Site, Laxmicoin does not guarantee the accurateness or completeness of this Site nor the provision that statutes, legislation, and regulations referred to in this Site are up-to-date. For updates or changes to cryptocurrency regulations, visit the court registry in your jurisdiction or speak to a qualified professional in the appropriate field.
+          </p>
         </div>
         <div class="footer_bottom">
-        	<div class="row">
+          <div class="row">
                 <div class="col-md-6">
                     <p> Copyright 2018. All Rights Reserved by Laxmicoin®</p>
                 </div>
@@ -388,6 +589,7 @@
                         <li class="medium_icon"><a href="https://medium.com/@laxmicoin" target="_blank">M</a></li>
                         <li class="youtube_icon"><a href="https://www.youtube.com/c/Laxmicoin" target="_blank"><i class="fa fa-youtube"></i></a></li>
                         <li class="twitter_icon"><a href="https://t.me/Laxmicoinofficial" target="_blank"><i class="fa fa-telegram"></i></a></li>
+                        <li class="insta_icon"><a href="https://www.instagram.com/laxmicoinofficial/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -405,6 +607,22 @@
             scrollTop: $($.attr(this, 'href')).offset().top-40
         }, 800);
     });
+    var amountScrolled = 300;
+
+$(window).scroll(function() {
+    if ( $(window).scrollTop() > amountScrolled ) {
+        $('a.sf-back-to-top').fadeIn('slow');
+    } else {
+        $('a.sf-back-to-top').fadeOut('slow');
+    }
+});
+
+$('a.sf-back-to-top').click(function() {
+    $('html, body').animate({
+        scrollTop: 0
+    }, 700);
+    return false;
+});
 </script>
 </body>
 </html>
